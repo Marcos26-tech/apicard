@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'panaceiadelicia'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B5A46065E37C4D45A549034814574046 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_82B68515DF7647B7969C376FB80A4089 }}
           package: '*.war'
