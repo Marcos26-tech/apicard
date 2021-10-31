@@ -1,6 +1,6 @@
 !SESSION 2021-10-28 10:57:40.626 -----------------------------------------------
 eclipse.buildId=4.21.0.I20210906-0500
-java.version=16.0.2
+java.version=11.0.2
 java.vendor=Oracle Corporation
 BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
 Framework arguments:  -product org.eclipse.epp.package.java.product
